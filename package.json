@@ -1,0 +1,12 @@
+{
+  "name": "wnc-lang-daniel",
+  "version": "1.0.1",
+  "description": "language translation stuff...",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Daniel Sellers",
+  "license": "MIT",
+  "publishConfig": "http://192.168.200.74:4873"
+}
