@@ -1,6 +1,6 @@
 {
   "name": "wnc-lang-daniel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "language translation stuff...",
   "main": "index.js",
   "scripts": {
