@@ -8,5 +8,5 @@
   },
   "author": "Daniel Sellers",
   "license": "MIT",
-  "publishConfig": "http://192.168.200.74:4873"
+  "publishConfig": "http://localhost:4873"
 }
